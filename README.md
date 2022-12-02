@@ -18,7 +18,7 @@ The application has since been migrated to .NET 5.0 with significant changes to 
 ## Documentatin (WIP)
 
 ### Library Branch Management
-<img src="./documentation/images/LMS Presentation (1)" width=600>
+<img src="./documentation/images/LMS Presentation (1).png" width=600>
 
 
 ### Library Asset Management
