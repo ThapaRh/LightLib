@@ -19,6 +19,17 @@ The application has since been migrated to .NET 5.0 with significant changes to 
 
 ### Library Branch Management
 <img src="./documentation/images/LMS Presentation (1).png" width=600>
+<img src="./documentation/images/LMS Presentation (2).png" width=600>
+<img src="./documentation/images/LMS Presentation (3).png" width=600>
+<img src="./documentation/images/LMS Presentation (4).png" width=600>
+<img src="./documentation/images/LMS Presentation (5).png" width=600>
+<img src="./documentation/images/LMS Presentation (6).png" width=600>
+<img src="./documentation/images/LMS Presentation (7).png" width=600>
+<img src="./documentation/images/LMS Presentation (8).png" width=600>
+<img src="./documentation/images/LMS Presentation (9).png" width=600>
+<img src="./documentation/images/LMS Presentation (10).png" width=600>
+<img src="./documentation/images/LMS Presentation (11).png" width=600>
+
 
 
 ### Library Asset Management
